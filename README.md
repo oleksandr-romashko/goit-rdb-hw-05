@@ -11,6 +11,8 @@
 
 ### Assignment Description
 
+The dataset archive for this task, in CSV format, can be found [here](./assets/task-dataset/csv_dataset.zip).
+
 1. Write an SQL query that will display the `order_details` table and the `customer_id` field from the `orders` table corresponding to each record in the `order_details` table.
 This should be done using a nested query in the `SELECT` statement.
 
