@@ -1,5 +1,6 @@
 USE mydb;
 
+-- Tested with MySQL version 8.4.2
 WITH temp_table AS 
 (
   SELECT order_id, quantity
